@@ -170,9 +170,32 @@ public class ServicioLibro {
                System.out.println(aux.toString());
            } 
             
+           
+           
+           
+           
        }
+        
     
    
    }
+   
+     public void BuscarLibroPorEditorial(){
+     
+         System.out.println("Ingrese el editorial");
+         String editorial= leer.next();
+         
+         List<Libro> libros= new ArrayList();
+         libros= libroJpa.findLibroEntities();
+         
+         for (Libro aux : libros) {
+             if(aux.getEditorial().getNombre().contains(editorial)){
+                 System.out.println(aux.toString());
+             }
+             
+         }
+     
+     }
+
    
 }
