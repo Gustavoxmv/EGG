@@ -34,8 +34,8 @@ public class JPA_ {
         System.out.println("4.Editar");
             System.out.println("5.Buscar Libro");
             System.out.println("6.Buscar Libro ISBN");
-            System.out.println("");
-       
+            System.out.println("7.Buscar por Autor");
+            System.out.println("prueba");
             System.out.println("---------------------------------");
         
       a=leer.nextInt();
