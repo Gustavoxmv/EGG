@@ -12,11 +12,10 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Gustavo/Documents/NetBeansProjects/JPA_/src/libreria/JPA_.java</file>
-            <file>file:/C:/Users/Gustavo/Documents/NetBeansProjects/JPA_/src/libreria/servicio/MenuLibreria.java</file>
-            <file>file:/C:/Users/Gustavo/Documents/NetBeansProjects/JPA_/src/META-INF/persistence.xml</file>
-            <file>file:/C:/Users/Gustavo/Documents/NetBeansProjects/JPA_/src/libreria/servicio/ServicioLibro.java</file>
-            <file>file:/C:/Users/Gustavo/Documents/NetBeansProjects/JPA_/src/libreria/Exep/LibroExceptions.java</file>
+            <file>file:/C:/Users/Gustavo/Documents/Gitr/EGG/JPA_/src/libreria/servicio/ServicioLibro.java</file>
+            <file>file:/C:/Users/Gustavo/Documents/Gitr/EGG/JPA_/src/libreria/servicio/MenuLibreria.java</file>
+            <file>file:/C:/Users/Gustavo/Documents/Gitr/EGG/JPA_/src/libreria/servicio/ServicioEditorial.java</file>
+            <file>file:/C:/Users/Gustavo/Documents/Gitr/EGG/JPA_/src/libreria/JPA_.java</file>
         </group>
     </open-files>
 </project-private>
