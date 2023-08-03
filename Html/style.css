@@ -1,0 +1,66 @@
+*{
+
+margin: 0;
+padding: 0;
+
+
+}
+
+header{
+
+background-color: black;
+padding-bottom: 2%;
+border-color: black;
+margin-top: auto;
+text-align: center;
+
+}
+nav{
+
+text-align: center;
+
+}
+
+a{
+
+color: aliceblue;
+margin: 2%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-decoration: none;
+transition: color 0.3s ease;
+
+
+
+}
+a:hover{
+
+color: rgb(147, 150, 153);
+
+
+}
+
+
+.logo{
+
+width: 100px;
+height: 100px;
+
+
+}
+
+.separador{
+
+    border-top: 1px solid #ccc; /* Línea horizontal de 1px de grosor y color gris */
+  margin: 20px 0; /* Espacio vertical alrededor del separador */
+}
+
+
+.pie_pagina{
+
+    background-color: black; /* Color de fondo del footer */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%; /* Ancho completo del footer */
+    padding: 60px; /* Añadir un poco de espacio interior para mejorar el aspecto */
+}
